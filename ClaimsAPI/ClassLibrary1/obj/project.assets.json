@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\POC4\\ClaimsAPI\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Projects\\POC4\\ClaimsAPI\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\npoudel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\POC4\\ClaimsAPI\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\npoudel\\AppData\\Roaming\\NuGet\\NuGet.Config",

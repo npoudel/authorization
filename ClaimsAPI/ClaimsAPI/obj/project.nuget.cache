@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5sWldCQaKVZP1Q2e7a9d9V3V/DyjvfMvi5VO7X3yCgc/72603CD8AwIkwil5UjaG+P7wHsbLszU+pzDgdlWIyA==",
+  "dgSpecHash": "3tV1raaV1uEPB67SCVU+K9DtjG8SdQ7v3xLJMpp/WS8c7elVLeYUKH1xJtVETUBOH9/0q5i9Kg5ezKCp/VlqaQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\POC4\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj",
+  "projectFilePath": "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\npoudel\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\npoudel\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

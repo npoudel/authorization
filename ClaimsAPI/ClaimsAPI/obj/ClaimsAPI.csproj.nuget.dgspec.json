@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\POC4\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj": {}
+    "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\POC4\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj": {
+    "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\POC4\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj",
+        "projectUniqueName": "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj",
         "projectName": "ClaimsAPI",
-        "projectPath": "C:\\Projects\\POC4\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj",
+        "projectPath": "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClaimsAPI\\ClaimsAPI.csproj",
         "packagesPath": "C:\\Users\\npoudel\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\POC4\\ClaimsAPI\\ClaimsAPI\\obj\\",
+        "outputPath": "C:\\Projects\\POC4\\authorization\\ClaimsAPI\\ClaimsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\npoudel\\AppData\\Roaming\\NuGet\\NuGet.Config",
